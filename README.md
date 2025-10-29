@@ -40,9 +40,9 @@ Great for exploring data job market trends, skills, and salaries.
 <p align="center">
 <img width="500" height="500" alt="DAX" src="https://github.com/user-attachments/assets/f76a1250-caeb-4434-9ec9-09a8c7ec101b" />
 </p>
-
-[Checkout the project file here](https://github.com/user-attachments/files/23211512/Data.Science.Top.Skills.Analysis.xlsx)
-
+<p align="center">
+Checkout the project file here--> {https://github.com/user-attachments/files/23211512/Data.Science.Top.Skills.Analysis.xlsx}
+</p>
 <br><br><br>
 
 
@@ -52,6 +52,10 @@ Users can filter data dynamically to explore salary trends across roles and regi
 
 https://github.com/user-attachments/assets/d0420e62-1e22-46b6-9695-eaaee640430f
 
+<br>
+<p align="center">
+Checkout the project file here--> {https://github.com/user-attachments/files/23211649/Data.Science.Salary.Dashboard.xlsx}
+</p>
 
 
 
