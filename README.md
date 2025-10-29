@@ -40,7 +40,11 @@ Great for exploring data job market trends, skills, and salaries.
 <p align="center">
 <img width="500" height="500" alt="DAX" src="https://github.com/user-attachments/assets/f76a1250-caeb-4434-9ec9-09a8c7ec101b" />
 </p>
+
+[Checkout the project file here](https://github.com/user-attachments/files/23211512/Data.Science.Top.Skills.Analysis.xlsx)
+
 <br><br><br>
+
 
 ## 2) 💵🌎 Data Science Salary Dashboard Project:
 This innovative Excel dashboard visualizes data science salary insights by job title, country, and employment type.​  
