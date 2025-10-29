@@ -1,17 +1,15 @@
 # Excel Projects for Data Analytics
 A collection of Excel projects focused on data analytics — including data cleaning, visualization, KPI tracking, and automation using formulas, PivotTables, Power Query, Power Pivot, and DAX.  
-## Data Science Top Skills Analysis Project:
+## 1) 🛠️ Data Science Top Skills Analysis Project:
 An interactive Excel dashboard showing the top data skills, job roles, and their salaries via multiple worksheets.
 Quickly compare which skills pay best, see what employers seek, and filter by **job title** or **country**.  
 
 Great for exploring data job market trends, skills, and salaries.
 
-1️⃣ **(Skills Likelihood)-->** Workdsheet shows a comparsion of the top skills required based on the job title and the country:
-<p align="center">
-<img width="500" height="500" alt="Skill_Likelihood" src="https://github.com/user-attachments/assets/616de817-97cb-4c05-a883-73b340821113" />
-</p>
+1️⃣ **(Skills Likelihood)-->** Workdsheet shows a comparsion of the top skills required based on the job title and the country:  
 
- 
+<img width="500" height="500" alt="Skill_Likelihood" src="https://github.com/user-attachments/assets/616de817-97cb-4c05-a883-73b340821113" />
+
  ![GIF](https://github.com/user-attachments/assets/cd7ba2a0-df3b-457a-a930-272422faaffd)
 
 
@@ -37,13 +35,18 @@ Great for exploring data job market trends, skills, and salaries.
 <img width="500" height="500" alt="Power Pivot" src="https://github.com/user-attachments/assets/a3bfa049-1e82-41f6-9d27-e4304badd81f" />
 </p>
  🔴 DAX (Data Analysis Expressions) → Used to perform calculations and create measures across related tables.
+ <br><br>
+ 
 <p align="center">
 <img width="500" height="500" alt="DAX" src="https://github.com/user-attachments/assets/f76a1250-caeb-4434-9ec9-09a8c7ec101b" />
 </p>
+<br><br><br>
 
-## Data Science Salary Dashboard Project:
+## 2) 💵🌎 Data Science Salary Dashboard Project:
 This innovative Excel dashboard visualizes data science salary insights by job title, country, and employment type.​  
 Users can filter data dynamically to explore salary trends across roles and regions, while the dashboard highlights key metrics such as the median salary, the top job platform, and job count, helping identify typical pay levels, where to find opportunities, and overall job availability within the selected criteria.
+
+https://github.com/user-attachments/assets/d0420e62-1e22-46b6-9695-eaaee640430f
 
 
 
