@@ -52,6 +52,11 @@ Users can filter data dynamically to explore salary trends across roles and regi
 
 https://github.com/user-attachments/assets/d0420e62-1e22-46b6-9695-eaaee640430f
 
+### Excel Skills Used:
+- 📱 Formulas and Functions
+- 📊 Charts
+- 🖲️ KPI tracking
+- ✅ Data Validation
 <br>
 <p align="center">
 Checkout the project file here--> {https://github.com/user-attachments/files/23211649/Data.Science.Salary.Dashboard.xlsx}
