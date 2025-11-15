@@ -6,7 +6,7 @@ Quickly compare which skills pay best, see what employers seek, and filter by **
 
 Great for exploring data job market trends, skills, and salaries.
 
-1️⃣ **(Skills Likelihood)-->** Workdsheet shows a comparsion of the top skills required based on the job title and the country:  
+1️⃣ **(Skills Likelihood)-->** Worksheet shows a comparsion of the top skills required based on the job title and the country:  
 
 <img width="500" height="500" alt="Skill_Likelihood" src="https://github.com/user-attachments/assets/616de817-97cb-4c05-a883-73b340821113" />
 
